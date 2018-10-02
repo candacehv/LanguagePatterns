@@ -1,0 +1,280 @@
+
+AAAAA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AAABBBBBB
+This language is not valid for L1
+This language is not valid for L2
+This language is valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AB
+This language is valid for L1
+This language is valid for L2
+This language is not valid for L3
+This language is valid for L4
+This language is valid for L5
+This language is not valid for L6
+
+
+This language is valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABABABA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABAB
+This language is valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+BBAA
+This language is valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+BBBAA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AAB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AABBCCD
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABCBA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is valid for L6
+
+ABBBA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AABBBB
+This language is not valid for L1
+This language is not valid for L2
+This language is valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABAABBAAABBB
+This language is valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is valid for L5
+This language is not valid for L6
+
+AABACABAA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AABBBAABBB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+A
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+B
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+C
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AA
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+BB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+CC
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+G
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+l
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+CABAABB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABB
+This language is not valid for L1
+This language is not valid for L2
+This language is valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+aaCC
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABAABB
+This language is valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is valid for L5
+This language is not valid for L6
+
+AAAAAAABBBBBBB
+This language is valid for L1
+This language is valid for L2
+This language is not valid for L3
+This language is valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABAABBC
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+CABAABB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+AABBAABBAAC
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+
+This language is valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+BBCBB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is not valid for L6
+
+ABBBACBAAAB
+This language is not valid for L1
+This language is not valid for L2
+This language is not valid for L3
+This language is not valid for L4
+This language is not valid for L5
+This language is valid for L6
